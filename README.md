@@ -30,7 +30,7 @@ Upravljanje Rent – a – Car agencijom , te njihovim procesima je glavna stvar
 - Vođenje evidencije o servisiranju automobila
 
 ## Akteri
--Administrator
+- Administrator
 - Radnik
 - Klijent(u smislu da vidi koliko mu je vremena ostalo za koristenje vozila)
 
